@@ -1,5 +1,3 @@
-# Introduction-to-Big-Data
-
 # Flight Data Analysis Project
 
 ## Project Overview
